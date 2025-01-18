@@ -46,7 +46,7 @@ Assessing whether the benefits of automating HR tasks justify the investment in 
 
 1. **Login Frame**  
    The user must enter their credentials to access the system’s main dashboard.  
-   ![Figure 1](#)  *(Login Screen)*
+   ![Figure 1](src/SS1 (1).png)  *(Login Screen)*
 
 2. **Main Dashboard**  
    After login, the user is directed to the main dashboard where they can perform various operations like adding, deleting, and updating employee data.  
