@@ -89,27 +89,4 @@ In the future, we plan to enhance the system with:
 ## Code Example
 
 ```java
-// Java code for the Employee Management System (simplified)
-import java.sql.*;
-import javax.swing.*;
 
-public class EmployeeManagement {
-    public static void main(String[] args) {
-        // Database connection and other initialization here...
-        System.out.println("Employee Management System Initialized.");
-    }
-
-    // Example function to add an employee
-    public void addEmployee(String name, String department) {
-        try {
-            // SQL code to insert new employee data into the database
-            String sql = "INSERT INTO employees (name, department) VALUES (?, ?)";
-            // Establish database connection and execute query...
-            System.out.println("Employee added successfully!");
-        } catch (SQLException e) {
-            e.printStackTrace();
-        }
-    }
-
-    // Other functions like updateEmployee(), removeEmployee(), etc.
-}
