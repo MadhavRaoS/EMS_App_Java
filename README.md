@@ -46,23 +46,23 @@ Assessing whether the benefits of automating HR tasks justify the investment in 
 
 1. **Login Frame**  
    The user must enter their credentials to access the system’s main dashboard.  
-   ![Figure 1](src/SS1(1).png)  *(Login Screen)*
+   ![Figure 1](src/login.png)  *(Login Screen)*
 
 2. **Main Dashboard**  
    After login, the user is directed to the main dashboard where they can perform various operations like adding, deleting, and updating employee data.  
-   ![Figure 2](#)  *(Main Dashboard)*
+   ![Figure 2](src/home.png)  *(Main Dashboard)*
 
 3. **Add Employee**  
    Admin can add a new employee by entering their credentials.  
-   ![Figure 3](#)  *(Add Employee Screen)*
+   ![Figure 3](src/add.png)  *(Add Employee Screen)*
 
 4. **Remove Employee**  
    Admin can remove an employee by entering their employee ID.  
-   ![Figure 4](#)  *(Remove Employee Screen)*
+   ![Figure 4](src/rmve.png)  *(Remove Employee Screen)*
 
-5. **View and Update Employee**  
+6. **View and Update Employee**  
    Admin can view or update employee information by entering the employee ID.  
-   ![Figure 5](#)  *(View and Update Employee Screen)*
+   ![Figure 5](src/records.png)  *(View and Update Employee Screen)*
 
 ## Testing
 
