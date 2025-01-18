@@ -86,7 +86,6 @@ In the future, we plan to enhance the system with:
 - A better graphical interface
 - Additional features to improve usability and HR operations further
 
-## Code Example
 
 ```java
 
